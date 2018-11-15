@@ -1,0 +1,28 @@
+body{
+	background: #F9F7A6;
+}
+h1{
+	text-transform: uppercase;
+}
+h2{
+	border-bottom: 1px solid black;
+    padding-bottom: 20px;
+}
+ul{
+	text-align: left;
+	font-family: 'Playfair Display', serif;
+}
+hr{
+	height: 1px;
+}
+a{
+	color: red;
+	display: block;
+	text-align: left;
+    font-size: 25px;
+    font-weight: bold;
+}
+p{
+	text-align: left;
+	font-family: 'Playfair Display', serif;
+}
